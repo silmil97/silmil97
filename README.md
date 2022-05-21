@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad
 - 👀 I’m interested in learning new things about all kinds of tech.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently living in Egypt
 - 💞️ I’m looking to collaborate on any front-end Projects using react.js.
 - 📫 You can reach at ahmadabbaiibo@gmail.com or you can check out my contact form at my portfolio: https://silmil97.github.io/portfolio/
 
